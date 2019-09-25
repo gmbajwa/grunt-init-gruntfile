@@ -1,0 +1,15 @@
+/*
+  This is master css style and we are
+  working on it. To use as master file.
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    font-size: 100px;
+    font-weight: normal;
+  }
